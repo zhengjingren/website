@@ -53,30 +53,23 @@ a.tag:visited{font-family: "微软雅黑",sans-serif;font-size: 30px;color:#0000
 a.tag:hover{font-family: "微软雅黑",sans-serif;font-size: 30px;color:#000000; text-decoration:none;}
 a.tag:link{font-family: "微软雅黑",sans-serif;font-size: 30px;color:#000000; text-decoration:none;}
 
-#tag1{
+.tag1{
     float: left;
-    margin-top: 40px;
-    margin-left: 90px;
+    margin-top: 30px;
+    margin-left: 110px;
     text-align: center;
     font-family: "微软雅黑",sans-serif;
     font-size: 30px;
 }
-#tag2{
+.tag2{
     float: left;
-    margin-top: 40px;
-    margin-left: 420px;
+    margin-top: 30px;
+    margin-left: 400px;
     text-align: center;
     font-family: "微软雅黑",sans-serif;
     font-size: 30px;
 }
-#tag3{
-    float: left;
-    margin-top: 40px;
-    margin-left: 90px;
-    text-align: center;
-    font-family: "微软雅黑",sans-serif;
-    font-size: 30px;
-}
+
 /*end of the part*/
 
 
