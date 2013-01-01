@@ -32,3 +32,15 @@
     width: 900px;
     padding: 20px;
 }
+
+#lighthead2 {
+    overflow:hidden;
+}
+
+#light1 {
+    margin-left: 75px;
+}
+
+#light2 {
+    margin-right: 75px;
+}
